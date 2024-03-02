@@ -17,7 +17,7 @@
 
 ## 振り返り画面
  - 1週間の振り返りをする
- - [振り返り機能](functions/memoir/01-memoir)
+ - [振り返り機能](functions/savaasi/01-savaasi)
 
 ## マイページ画面
  - プロフィールを編集する

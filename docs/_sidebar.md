@@ -1,8 +1,8 @@
 - [Top](/)
 - 基本
     - [ガイド](guide/index)
-     - Handbookのガイド
-      - [Handbookを編集する](guide/01-local)
+     - booksのガイド
+      - [booksを編集する](guide/01-local)
       - [開発の手順](guide/02-work-procedure)
       - [フォルダ構成](guide/03-folder-structure)
       - [運用ポリシー](guide/04-policy)
@@ -15,10 +15,6 @@
     - [アカウントを完全に削除する](functions/delete_user/01-delete)
     - [招待機能](functions/invite/01-description)
     - [共有メンバー](functions/relation/01-relation)
-    - 振り返り
-      - [振り返り機能](functions/memoir/01-memoir)
-      - [達成したタスクを検索する機能](functions/memoir/02-search)
- - 通知
-    - [Push通知一覧](functions/notification/01-push)
- - 提案書
-    - [一覧](adr/index) 
+    - 大機能
+      - [小機能1](functions/savaasi/01-savaasi)
+      - [小機能2](functions/savaasi/02-search)

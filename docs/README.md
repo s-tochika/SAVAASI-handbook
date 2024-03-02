@@ -1,9 +1,9 @@
-# memoir Handbook
+# savaasi books
 
-memoirの実装の仕様をまとめる。
+savaasiの実装の仕様をまとめる。
 
 ■ リポジトリ <br/>
-https://github.com/wheatandcat/memoir-handbook
+https://github.com/s-tochika/savaasi-books
 
 
 
@@ -20,6 +20,3 @@ $ npm i docsify-cli -g
 ```bash
 $ docsify serve ./
 ```
-
-## デザイン
- - Icons by [Icons8](https://icons8.jp/)

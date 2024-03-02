@@ -1,10 +1,10 @@
-# memoir Handbook
+# savaasi books
 
 ■ ステージング環境<br/>
-https://wheatandcat.github.io/memoir-handbook/#/
+https://s-tochika.github.io/savaasi-books/#/
 
 ■ 本番環境<br/>
-https://memoir-handbook-dot-memoir-review.an.r.appspot.com/#/
+https://savaasi-books-dot-savaasi-review.an.r.appspot.com/#/
 
 ## インストール
 

@@ -1,12 +1,12 @@
 # ガイド
 
-memoirはHandbookで、開発した機能のドキュメーテンションの管理をしている。<br/>
-GitLabの[Handbook](https://about.gitlab.com/handbook/)の思想を参考に運用中。
+savaasiはbooksで、開発した機能のドキュメーテンションの管理をしている。<br/>
+GitLabの[books](https://about.gitlab.com/books/)の思想を参考に運用中。
 
 
-## Handbookの編集ガイド
+## booksの編集ガイド
 以下を参照する。
-  - [Handbookを編集する](guide/01-local)
+  - [booksを編集する](guide/01-local)
   - [開発の手順](guide/02-work-procedure)
   - [フォルダ構成](guide/03-folder-structure)
   - [運用ポリシー](guide/04-policy)
@@ -20,4 +20,4 @@ GitLabの[Handbook](https://about.gitlab.com/handbook/)の思想を参考に運�
 | ---- | ---- | ---- |
 |  デプロイタイミング  |  mainブランチにPushしたとき  | GitHubのtagをPushしたとき |
 |  記載内容  |  リリース予定の機能も記載される  | リリースされている機能のみ記載される |
-|  URL  |  https://wheatandcat.github.io/memoir-handbook/#/  | https://memoir-handbook-dot-memoir-review.an.r.appspot.com/#/ |
+|  URL  |  https://s-tochika.github.io/savaasi-books/#/  | https://savaasi-books-dot-savaasi-review.an.r.appspot.com/#/ |

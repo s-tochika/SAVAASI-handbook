@@ -1,11 +1,9 @@
-![logo](img/logo.svg)
-
-# <b>Handbook</b>
+# <b>savaasi books</b>
 
 > 開発ドキュメント、機能仕様書
 <br/>
 <br/>
 
-[GitHub](https://github.com/wheatandcat/memoir-handbook)
-[Getting Started](#memoir-handbook)
+[GitHub](https://github.com/s-tochika/savaasi-books)
+[Getting Started](#savaasi-books)
 

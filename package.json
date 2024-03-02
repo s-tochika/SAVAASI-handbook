@@ -1,7 +1,7 @@
 {
-  "name": "memoir-handbook",
+  "name": "savaasi-books",
   "version": "1.0.0",
-  "description": "https://wheatandcat.github.io/memoir-handbook/#/",
+  "description": "https://s-tochika.github.io/savaasi-books/#/",
   "main": "index.js",
   "directories": {
     "doc": "docs"
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wheatandcat/memoir-handbook.git"
+    "url": "git+https://github.com/s-tochika/savaasi-books.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wheatandcat/memoir-handbook/issues"
+    "url": "https://github.com/s-tochika/savaasi-books/issues"
   },
-  "homepage": "https://github.com/wheatandcat/memoir-handbook#readme",
+  "homepage": "https://github.com/s-tochika/savaasi-books#readme",
   "dependencies": {
     "textlint": "^12.1.0",
     "textlint-rule-ja-hiragana-keishikimeishi": "^1.1.0",
