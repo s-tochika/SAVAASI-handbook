@@ -1,5 +1,5 @@
 - [Top](/)
-- 基本
+- <b>基本<b>
     - [ガイド](guide/index)
      - handbookのガイド
       - [handbookを編集する](guide/01-local)
@@ -7,14 +7,7 @@
       - [フォルダ構成](guide/03-folder-structure)
       - [運用ポリシー](guide/04-policy)
     - [単語集](word)
-    - [画面名](screen)
+    - [画面一覧](screen)
     - [編集履歴](CHANGE_LOG) 
-- 機能設計
-    - [達成したタスク](functions/task/01-task)
-    - [ログイン](functions/login/01-authentication)
-    - [アカウントを完全に削除する](functions/delete_user/01-delete)
-    - [招待機能](functions/invite/01-description)
-    - [共有メンバー](functions/relation/01-relation)
-    - 大機能
-      - [小機能1](functions/savaasi/01-savaasi)
-      - [小機能2](functions/savaasi/02-search)
+- <b>機能設計<b>
+    <!-- - [ログイン](functions/sample) -->
