@@ -1,10 +1,10 @@
-# savaasi books
+# savaasi handbook
 
 ■ ステージング環境<br/>
-https://s-tochika.github.io/savaasi-books/#/
+https://s-tochika.github.io/savaasi-handbook/#/
 
 ■ 本番環境<br/>
-https://savaasi-books-dot-savaasi-review.an.r.appspot.com/#/
+https://savaasi-handbook-dot-savaasi-review.an.r.appspot.com/#/
 
 ## インストール
 

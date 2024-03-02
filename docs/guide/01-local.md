@@ -1,9 +1,9 @@
-# booksを編集する
+# handbookを編集する
 
 ## 1. リポジトリをクローン
 
 ```bash
-$ git clone https://github.com/s-tochika/savaasi-books
+$ git clone https://github.com/s-tochika/savaasi-handbook
 ```
 
 ## 2. docsify-cliをインストール
@@ -24,7 +24,7 @@ $ docsify serve ./docs/
 $ open http://localhost:3000/
 ```
 
-## 5. booksを編集する
+## 5. handbookを編集する
 
 以下の2つのどちらかの方法で編集を行なう。
  - [方法1. WEBブラウザで編集する](guide/01-local?id=方法1-webブラウザで編集する)
@@ -33,7 +33,7 @@ $ open http://localhost:3000/
 
 ### 方法1. WEBブラウザで編集する
 
- - 1. [savaasi-books](https://github.com/s-tochika/savaasi-books)を開く
+ - 1. [savaasi-handbook](https://github.com/s-tochika/savaasi-handbook)を開く
  - 2. mainのブランチボタンをクリック
  - 3. inputにブランチ名を入力して、`Create branch`をクリック
    - ※ブランチ名はユニークな名前ならOK（例: s-tochika-update-gide-01）
@@ -72,7 +72,7 @@ $ open http://localhost:3000/
 
 ## 6. Pull Requestを作成する
 
- - 1. [savaasi-books](https://github.com/s-tochika/savaasi-books)を開く
+ - 1. [savaasi-handbook](https://github.com/s-tochika/savaasi-handbook)を開く
  - 2. `Pull Requests`のタブを開く
  - 3. `New pull request`をクリック
  - 4. `base:main ← compare:作成したブランチ名`で`Create pull request`をクリック
@@ -84,4 +84,4 @@ $ open http://localhost:3000/
 
 ## 8. ステージング環境に反映されている確認
 
- -  [ステージング環境](https://s-tochika.github.io/savaasi-books/#/)に修正が反映されているか確認
+ -  [ステージング環境](https://s-tochika.github.io/savaasi-handbook/#/)に修正が反映されているか確認

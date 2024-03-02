@@ -35,7 +35,7 @@ for (var i = 0; i < items.length; i++) {
   text += `\n## ${item.date} \n`;
   for (var l = 0; l < item.items.length; l++) {
     const data = item.items[l];
-    text += ` - [${data.title}](https://github.com/s-tochika/savaasi-books/commit/${data.commit}) \n`;
+    text += ` - [${data.title}](https://github.com/s-tochika/savaasi-handbook/commit/${data.commit}) \n`;
   }
 }
 

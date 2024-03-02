@@ -11,9 +11,9 @@ jobs:
         uses: actions/cache@preview
         with:
           path: ~/.cache/yarn
-          key: ${{ runner.os }}-savaasi-books-${{ hashFiles(format('{0}{1}', github.workspace, '/yarn.lock')) }}
+          key: ${{ runner.os }}-savaasi-handbook-${{ hashFiles(format('{0}{1}', github.workspace, '/yarn.lock')) }}
           restore-keys:
-            ${{ runner.os }}-savaasi-books
+            ${{ runner.os }}-savaasi-handbook
       - name: Install node_modules
         if: steps.cache.outputs.cache-hit != 'true'
         run: yarn install

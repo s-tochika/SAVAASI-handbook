@@ -1,7 +1,7 @@
 {
-  "name": "savaasi-books",
+  "name": "savaasi-handbook",
   "version": "1.0.0",
-  "description": "https://s-tochika.github.io/savaasi-books/#/",
+  "description": "https://s-tochika.github.io/savaasi-handbook/#/",
   "main": "index.js",
   "directories": {
     "doc": "docs"
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/s-tochika/savaasi-books.git"
+    "url": "git+https://github.com/s-tochika/savaasi-handbook.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/s-tochika/savaasi-books/issues"
+    "url": "https://github.com/s-tochika/savaasi-handbook/issues"
   },
-  "homepage": "https://github.com/s-tochika/savaasi-books#readme",
+  "homepage": "https://github.com/s-tochika/savaasi-handbook#readme",
   "dependencies": {
     "textlint": "^12.1.0",
     "textlint-rule-ja-hiragana-keishikimeishi": "^1.1.0",

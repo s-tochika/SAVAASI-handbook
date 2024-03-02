@@ -1,9 +1,9 @@
-# savaasi books
+# savaasi handbook
 
 savaasiの実装の仕様をまとめる。
 
 ■ リポジトリ <br/>
-https://github.com/s-tochika/savaasi-books
+https://github.com/s-tochika/savaasi-handbook
 
 
 

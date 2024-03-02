@@ -1,6 +1,6 @@
 # フォルダ構造
 
-booksは以下のフォルダで管理している。
+handbookは以下のフォルダで管理している。
 
 ```
 └── docs
@@ -9,6 +9,6 @@ booksは以下のフォルダで管理している。
     ├── _coverpage.md   // Top画面
     ├── _sidebar.md     // サイドバー
     ├── functions       // 機能設計
-    ├── guide           // booksのガイド
+    ├── guide           // handbookのガイド
     └── img             // 画像ファイル
 ```

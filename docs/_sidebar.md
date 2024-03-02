@@ -1,8 +1,8 @@
 - [Top](/)
 - 基本
     - [ガイド](guide/index)
-     - booksのガイド
-      - [booksを編集する](guide/01-local)
+     - handbookのガイド
+      - [handbookを編集する](guide/01-local)
       - [開発の手順](guide/02-work-procedure)
       - [フォルダ構成](guide/03-folder-structure)
       - [運用ポリシー](guide/04-policy)
